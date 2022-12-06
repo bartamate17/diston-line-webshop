@@ -1,0 +1,16 @@
+Supershop Ⓒ - User guide / Note diary by Mate Barta
+
+	1 - Unzip webshop-bm
+
+	2 - Copy diston-line folder at htdocs folder
+
+	3 - For localhost testing: use Xampp, Mamp, etc.
+
+	4 - Localhost/phpmyadmin -> create table: diston-line
+
+	5 - Import diston-line.sql to database
+
+	6 - Document root directory diston-line fodler
+
+	7 - Ready for testing
+	
